@@ -1,8 +1,8 @@
 # Write your solution here
 time = Time.now
-#current_time = time.to_i
+current_time = time.to_i
 
-if time.to_i % 2 == 0
+if current_time.even
   puts "Even!"
 else
   puts "Odd!"
