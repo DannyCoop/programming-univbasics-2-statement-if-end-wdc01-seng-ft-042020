@@ -1,8 +1,9 @@
 # Write your solution here
-time = time.to_i
+time = time.now
 
 
-if time_now = even
+
+if time.to_i = even
   puts "Even!"
 else
   puts "odd!"
