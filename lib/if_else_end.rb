@@ -3,7 +3,7 @@ time = Time.now
 
 
 
-if time.to_i = even
+if time.to_i == even
   puts "Even!"
 else
   puts "odd!"
