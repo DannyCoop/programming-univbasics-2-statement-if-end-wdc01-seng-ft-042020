@@ -1,5 +1,5 @@
 # Write your solution here
-time = time.now.to_i
+time = time.to_i
 
 
 if time_now = even
